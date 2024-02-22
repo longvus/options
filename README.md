@@ -1,2 +1,2 @@
-# Options
-Update Feb 2024: SSVI and natural-SVI fitting for Deribit Options Quotes
+# SVI
+Update Feb 2024: fitting SSVI and natural-SVI per slices for Deribit Options Quotes
